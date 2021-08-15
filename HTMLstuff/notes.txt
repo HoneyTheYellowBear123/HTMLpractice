@@ -1,0 +1,18 @@
+notes
+
+index.html is the first file that the browser will load
+
+h is header
+p is paragraph
+ol is ordered list (uses numbers)
+ul is unordered list (dots)
+footer is footer element
+
+
+google fonts has a bunch of fonts you can pull in for your CSS code
+a:hover in css will add an effect when you hover over a elements 
+
+comments in CSS do it C style, he specifically uses /* system
+
+
+to host a website you purchase a domain and have a server host it
